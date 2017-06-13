@@ -37,7 +37,7 @@
 									<input style="width: 85px;" type="text" class="textbox" name="captcha" id="captcha" >
 									<br />
  
-								<!-- Captcha Field added .......................... End Here -->  
+								<!-- Captcha Field added .......................... End Here -- -->  
 
 								<span>
 									<input type="submit" name="submit" id="submit" value="Sign In" class="Signbtn" />
